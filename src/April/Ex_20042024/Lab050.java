@@ -1,4 +1,4 @@
-package Ex_20042024;
+package April.Ex_20042024;
 
 public class Lab050 {
     public static void main(String[] args) {
@@ -7,6 +7,7 @@ public class Lab050 {
 
         System.out.println(name2.toLowerCase());
         System.out.println(name2.toUpperCase());
+        System.out.println(name1.toLowerCase());
 
 
     }

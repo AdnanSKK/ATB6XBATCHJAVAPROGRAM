@@ -1,4 +1,4 @@
-package Ex_13042024;
+package April.Ex_13042024;
 
 public class PalindromeChecker {
     public static void main(String[] args) {
